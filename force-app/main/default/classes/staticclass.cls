@@ -7,17 +7,17 @@ public class staticclass {
     }
 
     public staticclass(){
-        this(default_value)
+        this(default_value);
     }
 
     public staticclass(Integer value){
         this.Numm = value;
     }
 
-    public display(){
+    public void displaaay(){
         System.debug(Numm);
     }
 
-    
+
 
 }

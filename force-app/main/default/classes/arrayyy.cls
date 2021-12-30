@@ -5,6 +5,6 @@ public with sharing class arrayyy {
             Arr.add('Test' + i);
             System.debug(Arr[i]);
         } 
-        return Arr
+        return Arr;
     }
 }
